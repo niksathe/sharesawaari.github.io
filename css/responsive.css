@@ -154,11 +154,11 @@
 
 @media only screen and (max-width: 767px) {
   .bg-inverse {
-    background: #191c1e; }
+    background: #3d5bdf; }
   .navbar-expand-md .navbar-brand, .navbar-expand-md .navbar-toggler {
     margin: 6px 15px; }
   .bg-inverse {
-    background: #191c1e; }
+    background: #3d5bdf; }
   .navbar {
     padding: 0; }
   .navbar-brand img {
@@ -166,7 +166,7 @@
 
 @media (min-width: 320px) and (max-width: 480px) {
   .bg-inverse {
-    background: #191c1e; }
+    background: #3d5bdf; }
   .navbar {
     padding: 0; }
   .navbar-brand img {
