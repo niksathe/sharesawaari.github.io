@@ -67,6 +67,12 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 /* ==========================================================================
    Section Title
    ========================================================================== */
+
+   .circle-icon {
+    background: #ffffff;
+    padding:0px;
+    border-radius: 20%;
+}
 .section {
   padding: 130px 0px; }
 
